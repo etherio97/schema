@@ -1,0 +1,12 @@
+{
+  "complierOptions": {
+    "out": "dist",
+    "rootDir": ".",
+    "target": "ES2015",
+    "module": "commonjs",
+    "declaration": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["node", "firebase", "firebase-admin"]
+  }
+}

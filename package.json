@@ -1,0 +1,38 @@
+{
+  "name": "@etherio-core/etherio",
+  "version": "0.1.0",
+  "description": "Etherio Core Package developed by Ethereal",
+  "main": "dist/etherio.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "tsc",
+    "publish": "npm publish --public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etherio97/etherio.git"
+  },
+  "keywords": [
+    "etherio",
+    "firebase",
+    "database",
+    "model",
+    "schema"
+  ],
+  "author": "Shin Maung Maung <ethereal97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etherio97/etherio/issues"
+  },
+  "homepage": "https://github.com/etherio97/etherio#readme",
+  "dependencies": {
+    "firebase": "^8.2.3",
+    "firebase-admin": "^9.4.2",
+    "global": "^4.4.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^4.1.3"
+  }
+}
