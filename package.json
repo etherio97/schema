@@ -1,6 +1,6 @@
 {
   "name": "etherio-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Etherio Core Package developed by Ethereal",
   "main": "dist/etherio.js",
   "directories": {
