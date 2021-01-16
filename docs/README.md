@@ -1,15 +1,6 @@
 # Docs
 
-- [Firebase](#firebase)
-  - Realtime Database [RTDB](#rtdb)
-
----
-
-<a id="firebase"></a>
-## Firebase
-
-<a id="rtdb"></a>
-### Realtime Database
-
-- [Schema](#rtdb-schema)
-- [Model](#rtdb-schema)
+- [Firebase](https://firebase.google.com/docs)
+  - Realtime Database [RTDB](/database/)
+    - [Schema](/database/Schema)
+    - [Model](/database/Model)
