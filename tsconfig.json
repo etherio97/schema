@@ -1,12 +1,26 @@
 {
-  "complierOptions": {
-    "out": "dist",
-    "rootDir": ".",
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "tests",
+    "docs",
+    "dist"
+  ],
+  "compilerOptions": {
+    "allowJs": true,
+    "outDir": "dist",
     "target": "ES2015",
     "module": "commonjs",
     "declaration": true,
     "skipLibCheck": true,
+    "emitDeclarationOnly": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["node", "firebase", "firebase-admin"]
+    "types": [
+      "node",
+      "firebase",
+      "firebase-admin"
+    ]
   }
 }

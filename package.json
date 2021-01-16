@@ -9,7 +9,7 @@
   "scripts": {
     "watch": "tsc --watch",
     "build": "tsc",
-    "npm:publish": "npm publish --public"
+    "npm:public": "npm init --scope=@etherio && npm publish --public"
   },
   "repository": {
     "type": "git",
