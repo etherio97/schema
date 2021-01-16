@@ -1,6 +1,6 @@
 # Docs
 
-## [Firebase](#firebase)
+- [Firebase](#firebase)
  - Realtime Database [RTDB](#rtdb)
 
 ---
