@@ -1,2 +1,4 @@
 title: Etherio
 description: by Ethereal
+site:
+  baseurl: /etherio
