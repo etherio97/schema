@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/etherio97/etherio#readme",
   "dependencies": {
-    "firebase": "^8.2.3",
+    "firebase": "^10.2.0",
     "firebase-admin": "^9.4.2",
     "global": "^4.4.0",
     "tsc": "^1.20150623.0",
