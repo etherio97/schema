@@ -30,7 +30,7 @@
   "homepage": "https://github.com/etherio97/etherio#readme",
   "dependencies": {
     "firebase": "^8.2.3",
-    "firebase-admin": "^9.4.2",
+    "firebase-admin": "^13.0.0",
     "global": "^4.4.0",
     "tsc": "^1.20150623.0",
     "typescript": "^4.1.3"
